@@ -1,0 +1,101 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', Verdana, sans-serif;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+}
+
+pre {
+    margin: 0;
+}
+
+.main-title {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 60px;
+    color: #3f2aff;
+}
+
+.text {
+    margin: 0px;
+    margin-bottom: 30px;
+    max-width: 730px;
+    font-size: 20px;
+    line-height: 160%;
+    color: #333;
+}
+
+.quote-text {
+    max-width: 900px;
+    background-color: #EBEBEB;
+    padding: 25px 120px;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.quote {
+    font-weight: 730;
+}
+
+.image-group {
+    margin: 0px;
+    margin-bottom: 60px;
+}
+
+.image-group-text {
+    padding: 12px;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    background-color:  #3f2aff;
+}
+
+.second-title {
+    margin: 0;
+    margin-bottom: 10px;
+    color: #333;
+    font-size: 40px;
+}
+
+.list {
+    margin: 20px 0;
+    padding-left: 40px;
+    font-size: 20px;
+    line-height: 48px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 60px;
+}
+
+.table-caption {
+    margin-bottom: 10px;
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.table-cell {
+    padding: 30px;
+    font-size: 20px;
+    vertical-align: top;
+    text-align: left;
+    border: 1px solid #c4c4c4; 
+}
+
+.table-header {
+    font-weight: bold;
+    color: #3f2aff;
+}
