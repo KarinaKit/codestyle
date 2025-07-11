@@ -27,6 +27,7 @@ HTML5
 CSS3
 Возможно использование JavaScript (если есть интерактивные элементы)
 Поддержка адаптивности (если реализовано)
+
 📁 Установка и запуск
 
 ⚠️ Убедитесь, что у вас установлен локальный веб-сервер (например, Live Server для VS Code) или любой другой.
@@ -46,8 +47,10 @@ cd code-style-site
 <img width="3840" height="7798" alt="ready" src="https://github.com/user-attachments/assets/7bb0f501-f497-4c7b-a7f2-23c2b0f7e032" />
 
 
-✍️ Авторы
+✍️ Автор
 
-[Karina Terebinova]
-Gmail: [Terebinovakit8@gmail.com]
-Telegram: [@Kit_kara8]
+Karina Terebinova [https://www.behance.net/karinaterebin]
+
+Gmail [Terebinovakit8@gmail.com]
+
+Telegram [@Kit_kara8]
