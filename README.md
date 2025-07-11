@@ -49,8 +49,8 @@ cd code-style-site
 
 ✍️ Автор
 
-Karina Terebinova [https://www.behance.net/karinaterebin]
+[Telegram](https://t.me/+79027424580)
 
-Gmail [Terebinovakit8@gmail.com]
+[Gmail](Terebinovakit8@gmail.com)
 
-Telegram [@Kit_kara8]
+[Behance](https://www.behance.net/karinaterebin)
